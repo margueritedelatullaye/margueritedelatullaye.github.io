@@ -15,7 +15,7 @@ website:
     right:
       - icon: github
         href: https://github.com/Foxmustang
-      - text: "🇫🇷 FR"
+      - text: "🇫🇷 Français"
         href: fr/index.qmd          # ← bouton de bascule vers le français
       - text: "🇬🇧 English"
         href: index.qmd
