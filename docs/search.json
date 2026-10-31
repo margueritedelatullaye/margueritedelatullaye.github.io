@@ -1,59 +1,10 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marguerite de La Tullaye",
     "section": "",
-    "text": "Natural Language Processing\nComputer Vision\nBayesian Methods"
-  },
-  {
-    "objectID": "research.html#research-interests",
-    "href": "research.html#research-interests",
-    "title": "Research",
-    "section": "",
-    "text": "Natural Language Processing\nComputer Vision\nBayesian Methods"
-  },
-  {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\n\n2024\nMy Great Paper Title\nJohn Doe, Jane Smith\nJournal of AI Research, vol. 12, pp. 1–20"
-  },
-  {
-    "objectID": "research.html#projects",
-    "href": "research.html#projects",
-    "title": "Research",
-    "section": "Projects",
-    "text": "Projects\n\nProject Alpha"
-  },
-  {
-    "objectID": "fr/research.html",
-    "href": "fr/research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Natural Language Processing\nComputer Vision\nBayesian Methods"
-  },
-  {
-    "objectID": "fr/research.html#research-interests",
-    "href": "fr/research.html#research-interests",
-    "title": "Research",
-    "section": "",
-    "text": "Natural Language Processing\nComputer Vision\nBayesian Methods"
-  },
-  {
-    "objectID": "fr/research.html#publications",
-    "href": "fr/research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\n\n2024\nMy Great Paper Title\nJohn Doe, Jane Smith\nJournal of AI Research, vol. 12, pp. 1–20"
-  },
-  {
-    "objectID": "fr/research.html#projects",
-    "href": "fr/research.html#projects",
-    "title": "Research",
-    "section": "Projects",
-    "text": "Projects\n\nProject Alpha"
+    "text": "Welcome to my personal website. I am a researcher at XYZ University, working on natural language processing and computer vision.\nFeel free to explore my research or download my CV."
   },
   {
     "objectID": "fr/cv.html#education",
@@ -112,17 +63,66 @@
     "text": "Publications\nSee Research page."
   },
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Natural Language Processing\nComputer Vision\nBayesian Methods"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Natural Language Processing\nComputer Vision\nBayesian Methods"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\n2024\nMy Great Paper Title\nJohn Doe, Jane Smith\nJournal of AI Research, vol. 12, pp. 1–20"
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\nProject Alpha"
+  },
+  {
+    "objectID": "fr/research.html",
+    "href": "fr/research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Natural Language Processing\nComputer Vision\nBayesian Methods"
+  },
+  {
+    "objectID": "fr/research.html#research-interests",
+    "href": "fr/research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Natural Language Processing\nComputer Vision\nBayesian Methods"
+  },
+  {
+    "objectID": "fr/research.html#publications",
+    "href": "fr/research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\n2024\nMy Great Paper Title\nJohn Doe, Jane Smith\nJournal of AI Research, vol. 12, pp. 1–20"
+  },
+  {
+    "objectID": "fr/research.html#projects",
+    "href": "fr/research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\nProject Alpha"
+  },
+  {
     "objectID": "fr/index.html",
     "href": "fr/index.html",
     "title": "Marguerite de La Tullaye",
     "section": "",
     "text": "Bienvenue sur mon site. Je suis chercheuse à l’université XYZ University.\nRetrouvez les projets menés ou télécharge mon CV."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marguerite de La Tullaye",
-    "section": "",
-    "text": "Welcome to my personal website. I am a researcher at XYZ University, working on natural language processing and computer vision.\nFeel free to explore my research or download my CV."
   }
 ]
