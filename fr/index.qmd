@@ -1,0 +1,21 @@
+---
+title: "Marguerite de La Tullaye"
+subtitle: "PhD Researcher"
+image: ../assets/img/profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/yourusername
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/yourusername
+    - icon: envelope
+      text: Email
+      href: mailto:marguerite.delatullaye@gmail.com
+---
+
+Bienvenue sur mon site. Je suis chercheuse à l'université  **XYZ University**.
+
+Retrouvez les [projets menés](research.qmd) ou télécharge mon [CV](cv.qmd).
