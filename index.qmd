@@ -1,22 +1,56 @@
 ---
 title: "Marguerite de La Tullaye"
-subtitle: "PhD Researcher"
+subtitle: "PhD Candidate in Economics"
 image: assets/img/profile.jpg
 about:
   template: jolla          # trestles / solana / marquee / broadside
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/yourusername
+      href: https://github.com/margueritedelatullaye
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/yourusername
+      href: https://www.linkedin.com/in/marguerite-de-la-tullaye-010487249/
     - icon: envelope
       text: Email
       href: mailto:marguerite.delatullaye@gmail.com
 ---
 
-Welcome to my personal website. I am a researcher at **XYZ University**,
-working on natural language processing and computer vision.
+---
+title: ""
+toc: false
+---
 
-Feel free to explore my [research](research.qmd) or download my [CV](cv.qmd).
+:::: {.hero}
+
+::: {.hero-left}
+![](assets/img/profile.jpg){.profile-photo}
+
+<p class="job">PhD Candidate in Economics</p>
+
+<div class="affiliations">
+  <a href="https://www.telecom-paris.fr/" target="_blank">Télécom Paris</a>
+  <a href="https://www.ip.mpg.de/en/" target="_blank">Max Planck Institute for Innovation and Competition</a>
+</div>
+
+<div class="bubbles">
+  <a class="bubble" href="https://www.linkedin.com/in/marguerite-de-la-tullaye-010487249/" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+  <a class="bubble" href="https://github.com/margueritedelatullaye" title="GitHub"><i class="bi bi-github"></i></a>
+  <a class="bubble" href="mailto:marguerite.delatullaye@gmail.com" title="Mail"><i class="bi bi-envelope-fill"></i></a>
+</div>
+:::
+
+::: {.hero-right}
+I am a first year PhD student at both [Télécom Paris](https://www.telecom-paris.fr/) (affiliated with CREST), and the [Max Planck Institute for Innovation and Competition](https://www.ip.mpg.de/en/). My thesis supervisor is [Laurie Ciaramella](https://sites.google.com/view/laurieciaramella) with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Dietmar Harhoff](https://www.ip.mpg.de/en/persons/prof-dietmar-harhoff).
+:::
+
+::::
+
+## AND BEFORE... {.unnumbered}
+
+Votre texte sur votre parcours précédent.
+
+## CONTACT {.unnumbered}
+
+Votre adresse, votre mail, etc.
+
