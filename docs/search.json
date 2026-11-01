@@ -4,91 +4,28 @@
     "href": "index.html",
     "title": "Marguerite de La Tullaye",
     "section": "",
-    "text": "Welcome to my personal website. I am a researcher at XYZ University, working on natural language processing and computer vision.\nFeel free to explore my research or download my CV."
+    "text": "PhD Candidate in Economics\n\n\nTélécom Paris Max Planck Institute for Innovation and Competition\n\n\n  \n\n\n\nI am a first year PhD student at both Télécom Paris (affiliated with CREST), and the Max Planck Institute for Innovation and Competition. My thesis supervisor is Laurie Ciaramella with Clément Malgouyres and Dietmar Harhoff."
   },
   {
-    "objectID": "fr/cv.html#education",
-    "href": "fr/cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\nPhD in Computer Science — XYZ University (2021 – present)\nThesis: “Title of my thesis”\nMSc in Data Science — ABC University (2019 – 2021)"
+    "objectID": "index.html#and-before",
+    "href": "index.html#and-before",
+    "title": "Marguerite de La Tullaye",
+    "section": "AND BEFORE…",
+    "text": "AND BEFORE…\nVotre texte sur votre parcours précédent."
   },
   {
-    "objectID": "fr/cv.html#experience",
-    "href": "fr/cv.html#experience",
-    "title": "Curriculum Vitae",
-    "section": "Experience",
-    "text": "Experience\nResearch Intern — Google DeepMind (Summer 2023)\nDescription of what you did."
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Marguerite de La Tullaye",
+    "section": "CONTACT",
+    "text": "CONTACT\nVotre adresse, votre mail, etc."
   },
   {
-    "objectID": "fr/cv.html#skills",
-    "href": "fr/cv.html#skills",
-    "title": "Curriculum Vitae",
-    "section": "Skills",
-    "text": "Skills\n\n\n\nCategory\nTools\n\n\n\n\nLanguages\nPython, R, Julia\n\n\nFrameworks\nPyTorch, HuggingFace\n\n\nTools\nGit, Docker, Quarto"
-  },
-  {
-    "objectID": "fr/cv.html#publications",
-    "href": "fr/cv.html#publications",
-    "title": "Curriculum Vitae",
-    "section": "Publications",
-    "text": "Publications\nSee Research page."
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\nPhD in Computer Science — XYZ University (2021 – present)\nThesis: “Title of my thesis”\nMSc in Data Science — ABC University (2019 – 2021)"
-  },
-  {
-    "objectID": "cv.html#experience",
-    "href": "cv.html#experience",
-    "title": "Curriculum Vitae",
-    "section": "Experience",
-    "text": "Experience\nResearch Intern — Google DeepMind (Summer 2023)\nDescription of what you did."
-  },
-  {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "Curriculum Vitae",
-    "section": "Skills",
-    "text": "Skills\n\n\n\nCategory\nTools\n\n\n\n\nLanguages\nPython, R, Julia\n\n\nFrameworks\nPyTorch, HuggingFace\n\n\nTools\nGit, Docker, Quarto"
-  },
-  {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "Curriculum Vitae",
-    "section": "Publications",
-    "text": "Publications\nSee Research page."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "Marguerite de La Tullaye",
     "section": "",
-    "text": "Natural Language Processing\nComputer Vision\nBayesian Methods"
-  },
-  {
-    "objectID": "research.html#research-interests",
-    "href": "research.html#research-interests",
-    "title": "Research",
-    "section": "",
-    "text": "Natural Language Processing\nComputer Vision\nBayesian Methods"
-  },
-  {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\n\n2024\nMy Great Paper Title\nJohn Doe, Jane Smith\nJournal of AI Research, vol. 12, pp. 1–20"
-  },
-  {
-    "objectID": "research.html#projects",
-    "href": "research.html#projects",
-    "title": "Research",
-    "section": "Projects",
-    "text": "Projects\n\nProject Alpha"
+    "text": "Bienvenue sur mon site. Je suis chercheuse à l’université XYZ University.\nRetrouvez les projets menés ou télécharge mon CV."
   },
   {
     "objectID": "fr/research.html",
@@ -119,10 +56,122 @@
     "text": "Projects\n\nProject Alpha"
   },
   {
-    "objectID": "fr/index.html",
-    "href": "fr/index.html",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Natural Language Processing\nComputer Vision\nBayesian Methods"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Natural Language Processing\nComputer Vision\nBayesian Methods"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\n2024\nMy Great Paper Title\nJohn Doe, Jane Smith\nJournal of AI Research, vol. 12, pp. 1–20"
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\nProject Alpha"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nPhD in Computer Science — XYZ University (2021 – present)\nThesis: “Title of my thesis”\nMSc in Data Science — ABC University (2019 – 2021)"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\nResearch Intern — Google DeepMind (Summer 2023)\nDescription of what you did."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\n\n\nCategory\nTools\n\n\n\n\nLanguages\nPython, R, Julia\n\n\nFrameworks\nPyTorch, HuggingFace\n\n\nTools\nGit, Docker, Quarto"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\nSee Research page."
+  },
+  {
+    "objectID": "fr/cv.html#education",
+    "href": "fr/cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nPhD in Computer Science — XYZ University (2021 – present)\nThesis: “Title of my thesis”\nMSc in Data Science — ABC University (2019 – 2021)"
+  },
+  {
+    "objectID": "fr/cv.html#experience",
+    "href": "fr/cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\nResearch Intern — Google DeepMind (Summer 2023)\nDescription of what you did."
+  },
+  {
+    "objectID": "fr/cv.html#skills",
+    "href": "fr/cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\n\n\nCategory\nTools\n\n\n\n\nLanguages\nPython, R, Julia\n\n\nFrameworks\nPyTorch, HuggingFace\n\n\nTools\nGit, Docker, Quarto"
+  },
+  {
+    "objectID": "fr/cv.html#publications",
+    "href": "fr/cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\nSee Research page."
+  },
+  {
+    "objectID": "PROCESS.html",
+    "href": "PROCESS.html",
     "title": "Marguerite de La Tullaye",
     "section": "",
-    "text": "Bienvenue sur mon site. Je suis chercheuse à l’université XYZ University.\nRetrouvez les projets menés ou télécharge mon CV."
+    "text": "Identifier le compte qui fait les modifications (à entrer dans le terminal Bash) :\ngit config --global user.name \"Marguerite de la Tullaye\"\ngit config --global user.email \"votre@adresse.com\"\nCes informations peuvent être vérifiées par :\ngit config --global --list"
+  },
+  {
+    "objectID": "PROCESS.html#gérer-git",
+    "href": "PROCESS.html#gérer-git",
+    "title": "Marguerite de La Tullaye",
+    "section": "",
+    "text": "Identifier le compte qui fait les modifications (à entrer dans le terminal Bash) :\ngit config --global user.name \"Marguerite de la Tullaye\"\ngit config --global user.email \"votre@adresse.com\"\nCes informations peuvent être vérifiées par :\ngit config --global --list"
+  },
+  {
+    "objectID": "PROCESS.html#gérer-lenvironnement-virtuel-sous-linux",
+    "href": "PROCESS.html#gérer-lenvironnement-virtuel-sous-linux",
+    "title": "Marguerite de La Tullaye",
+    "section": "Gérer l’environnement virtuel sous Linux :",
+    "text": "Gérer l’environnement virtuel sous Linux :\nD’abord, créer l’environnement virtuel :\nsudo apt install python3-pip python3-venv\npython3 -m venv .venv\nsource .venv/bin/activate\nPuis, y installer quarto :\npip install quarto-cli\nquarto --version"
+  },
+  {
+    "objectID": "PROCESS.html#work-with-quarto",
+    "href": "PROCESS.html#work-with-quarto",
+    "title": "Marguerite de La Tullaye",
+    "section": "Work with Quarto",
+    "text": "Work with Quarto\nQuarto has to be set up on the computer through : 1. Quarto installation (in my Program\\ files) through the website : https://quarto.org/docs/get-started/ 2. the VScode Quarto installation to have files with the .yml extension colored fancyfully\nTo verify Quarto is well installed, run quarto --version in Bash. \\\nThen, to have a local preview of the website :\nquarto preview\nIt opens at http://localhost:xxxx with live reload. Type Ctrl + C to close the localhost.\nTo deploy :\nquarto render\ngit add -A\ngit commit -m \"update site\"\ngit push\nGitHub Pages is configured to serve from the main branch, /docs folder. If it is not, turn it on GitHub Pages. On GitHub : * Settings → Pages (menu gauche) * Source → Deploy from a branch * Branch → main / docs * Click Save"
+  },
+  {
+    "objectID": "PROCESS.html#html-files-the-pages-themselves",
+    "href": "PROCESS.html#html-files-the-pages-themselves",
+    "title": "Marguerite de La Tullaye",
+    "section": "HTML files — the pages themselves",
+    "text": "HTML files — the pages themselves\nWithout Quarto, the repository would be organised as follows:\n\n\n\nFile / Folder\n\n\nSub-element\n\n\nDescription\n\n\n\n\nindex.html\n\n\nMandatory entry point. When someone visits yourusername.github.io, the server automatically looks for a file named index.html at the root. It is your homepage — every website needs one.\n\n\n\n\nassets/\n\n\ncss/style.css\n\n\nControls the visual appearance — colors, fonts, spacing, layout, and animations. Linked in the &lt;head&gt; of each HTML file.\n\n\n\n\njs/main.js\n\n\nAdds interactivity — dropdown menus, form validation, scroll animations, or API calls. Loaded just before &lt;/body&gt;.\n\n\n\n\nimg/\n\n\nStores images and other media. Keeping them in a dedicated folder prevents clutter.\n\n\n\nThe assets/ folder holds all the supporting files your HTML pages depend on. The name is a convention — static/ or public/ would work equally well.\n\nI chose to deploy this website through Quarto, which makes it easier to integrate mathematical equations. The reference file uses the .qmd suffix instead of .html, and the repository is structured as follows:\n\n\n\nFile / Folder\n\n\nDescription\n\n\n\n\n_quarto.yml\n\n\nDefines the site structure, navigation, and external links.\n\n\n\n\nindex.qmd, cv.qmd, research.qmd\n\n\nRoot-level files encoding the main pages of the site.\n\n\n\n\nassets/css/custom.scss\n\n\nControls the visual design of the site. The assets/ folder can hold additional resources if needed.\n\n\n\n\nassets/img/\n\n\nStores images used across the site.\n\n\n\n\nfr/\n\n\nContains the French version of the site, mirroring the root structure.\n\n\n\n\ndocs/.nojekyll\n\n\nTells GitHub Pages not to run Jekyll on docs/. Required for Quarto sites, as Jekyll would otherwise ignore folders starting with _."
   }
 ]

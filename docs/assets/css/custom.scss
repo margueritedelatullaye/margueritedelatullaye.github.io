@@ -143,3 +143,97 @@ table {
     .cv-date { margin-top: 0.2rem; }
   }
 }
+
+// ── First page ─────────────────────────────────────
+/* Bloc photo + texte */
+.hero {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+  margin-bottom: 2.5rem;
+}
+.hero-left {
+  flex: 0 0 240px;
+  text-align: center;
+}
+.hero-right {
+  flex: 1;
+}
+
+/* Photo */
+.profile-photo {
+  width: 100%;
+  border-radius: 8px;
+}
+
+/* Métier sous la photo */
+.job {
+  margin: 0.8rem 0;
+  font-size: 0.95rem;
+  color: #666;
+}
+
+/* Les 3 bulles */
+.bubbles {
+  display: flex;
+  justify-content: center;
+  gap: 0.8rem;
+}
+.bubble {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: #2c3e50;
+  color: white !important;
+  font-size: 1.1rem;
+  text-decoration: none;
+  transition: transform 0.15s, background 0.15s;
+}
+.bubble:hover {
+  background: #18bc9c;
+  transform: translateY(-2px);
+}
+
+/* Titres soulignés sur toute la largeur */
+h2 {
+  border-bottom: 2px solid #2c3e50;
+  padding-bottom: 0.3rem;
+  margin-top: 2.5rem;
+}
+
+/* Texte en majuscules (utilisé par CONTACT) */
+h2#contact {
+  text-transform: uppercase;
+}
+
+/* Mobile : photo au-dessus du texte */
+@media (max-width: 700px) {
+  .hero {
+    flex-direction: column;
+    align-items: center;
+  }
+  .hero-left {
+    flex: none;
+    width: 200px;
+  }
+}
+
+/* Les deux universités sous le métier */
+.affiliations {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  margin-bottom: 1rem;
+  font-size: 0.85rem;
+}
+.affiliations a {
+  color: #666;
+  text-decoration: none;
+}
+.affiliations a:hover {
+  color: #18bc9c;
+  text-decoration: underline;
+}
