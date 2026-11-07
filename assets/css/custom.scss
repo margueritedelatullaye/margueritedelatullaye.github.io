@@ -26,7 +26,7 @@ $navbar-hl:           $primary;  // lien actif navbar
 
 // ── Page générale ──────────────────────────────────────────
 body {
-  max-width: 860px;        // largeur max du contenu
+  max-width: 1000px;        // largeur max du contenu
   margin: 0 auto;          // centré
 }
 
@@ -44,12 +44,16 @@ h2 {
 
 // ── Liens ─────────────────────────────────────────────────
 a {
-  color: $primary;
-  text-decoration: none;
+  color: inherit;
+  display: block;
+  font-size: 0.9rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 
   &:hover {
+    opacity: 0.7;
     text-decoration: underline;
-    color: darken($primary, 10%);
+    color: blue($color: #000000);
   }
 }
 
@@ -145,95 +149,59 @@ table {
 }
 
 // ── First page ─────────────────────────────────────
-/* Bloc photo + texte */
-.hero {
-  display: flex;
-  gap: 2.5rem;
-  align-items: flex-start;
-  margin-bottom: 2.5rem;
-}
-.hero-left {
-  flex: 0 0 240px;
-  text-align: center;
-}
-.hero-right {
-  flex: 1;
-}
-
-/* Photo */
 .profile-photo {
-  width: 100%;
-  border-radius: 8px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
-/* Métier sous la photo */
 .job {
-  margin: 0.8rem 0;
-  font-size: 0.95rem;
-  color: #666;
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
 }
 
-/* Les 3 bulles */
-.bubbles {
-  display: flex;
-  justify-content: center;
-  gap: 0.8rem;
+.affiliations a {
+  color: inherit;
+  display: block;
+  font-size: 0.9rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
+
 .bubble {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 42px;
-  height: 42px;
+  width: 44px;
+  height: 44px;
   border-radius: 50%;
-  background: #2c3e50;
-  color: white !important;
-  font-size: 1.1rem;
+  color: #333;
+  background: #f0f0f0;
+  font-size: 1.2rem;
   text-decoration: none;
-  transition: transform 0.15s, background 0.15s;
 }
+
 .bubble:hover {
-  background: #18bc9c;
-  transform: translateY(-2px);
+  background: #ddd;
 }
 
-/* Titres soulignés sur toute la largeur */
-h2 {
-  border-bottom: 2px solid #2c3e50;
-  padding-bottom: 0.3rem;
-  margin-top: 2.5rem;
+.hero-text {
+  font-size: 1.0rem;   /* change cette valeur : 1.1rem, 1.25rem, 1.4rem... */
+  line-height: 1.6;
+  margin-top: 0;
 }
 
-/* Texte en majuscules (utilisé par CONTACT) */
-h2#contact {
-  text-transform: uppercase;
-}
-
-/* Mobile : photo au-dessus du texte */
-@media (max-width: 700px) {
-  .hero {
-    flex-direction: column;
-    align-items: center;
-  }
-  .hero-left {
-    flex: none;
-    width: 200px;
-  }
-}
-
-/* Les deux universités sous le métier */
-.affiliations {
-  display: flex;
-  flex-direction: column;
-  gap: 0.2rem;
-  margin-bottom: 1rem;
-  font-size: 0.85rem;
-}
+/* Liens : même couleur que le texte, soulignés */
+.hero-text a,
 .affiliations a {
-  color: #666;
-  text-decoration: none;
-}
-.affiliations a:hover {
-  color: #18bc9c;
+  color: inherit;
   text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.hero-text a:hover,
+.affiliations a:hover {
+  opacity: 0.7;
 }

@@ -7,14 +7,12 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - href: cv.qmd
-        text: CV
+        text: About me
+#      - href: research.qmd
+#        text: Research
+#      - href: cv.qmd
+#        text: CV
     right:
-      - icon: github
-        href: https://github.com/Foxmustang
       - text: "🇫🇷 Français"
         href: fr/index.qmd          # ← bouton de bascule vers le français
       - text: "🇬🇧 English"

@@ -1,56 +1,49 @@
 ---
-title: "Marguerite de La Tullaye"
-subtitle: "PhD Candidate in Economics"
-image: assets/img/profile.jpg
-about:
-  template: jolla          # trestles / solana / marquee / broadside
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/margueritedelatullaye
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/marguerite-de-la-tullaye-010487249/
-    - icon: envelope
-      text: Email
-      href: mailto:marguerite.delatullaye@gmail.com
----
-
----
 title: ""
 toc: false
 ---
 
-:::: {.hero}
+```{=html}
+<div class="hero" style="display:flex; flex-direction:row; align-items:flex-start; gap:2rem; margin:2rem 0;">
 
-::: {.hero-left}
-![](assets/img/profile.jpg){.profile-photo}
+  <div class="hero-left" style="flex:0 0 260px; text-align:center; background:transparent; border:none; box-shadow:none; padding:0; margin:0;">
+    <img src="assets/img/profile.jpg" class="profile-photo" alt="Marguerite de La Tullaye" style="display:block; width:200px; height:200px; object-fit:cover; border-radius:50%; margin:0 auto 1rem auto;">
+    <div class="job">PhD Candidate in Economics</div>
+    <div class="affiliations">
+      <a href="https://www.telecom-paris.fr/" target="_blank">Télécom Paris</a>
+      <a href="https://www.ip.mpg.de/en/" target="_blank">Max Planck Institute for Innovation and Competition</a>
+    </div>
+    <br>
+    <div class="bubbles">
+      <a class="bubble" href="https://github.com/margueritedelatullaye" title="GitHub"><i class="bi bi-github"></i></a>
+      <a class="bubble" href="mailto:marguerite.delatullaye@gmail.com" title="Mail"><i class="bi bi-envelope-fill"></i></a>
+      <a class="bubble" href="https://www.linkedin.com/in/marguerite-de-la-tullaye-010487249/" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+    </div>
+  </div>
 
-<p class="job">PhD Candidate in Economics</p>
+<div class="col-md-8">
+  <p class="hero-text">I am a first year PhD student exploring subjects at the intersection of innovation economics and public policies. 
+  I work at both <a href="https://www.telecom-paris.fr/">Télécom Paris</a> (affiliated with CREST), and the <a href="https://www.ip.mpg.de/en/">Max Planck Institute for Innovation and Competition</a>. My thesis supervisor is <a href="https://sites.google.com/view/laurieciaramella">Laurie Ciaramella</a> with <a href="https://sites.google.com/site/clementmalgouyres/">Clément Malgouyres</a> and <a href="https://www.ip.mpg.de/en/persons/prof-dietmar-harhoff">Dietmar Harhoff</a>.
+  I am going to empirical methods on newly available CASD data to unfold : 
+  <ul>
+  <li><p class="hero-text">the impact of a labor cost reduction on start-up performance</p></li>
+  <li><p class="hero-text">the value of Intellectual Property and R&D assets transferred by companies when companies try to maximise their profits over assets location.</p></li>
+  </ul>
 
-<div class="affiliations">
-  <a href="https://www.telecom-paris.fr/" target="_blank">Télécom Paris</a>
-  <a href="https://www.ip.mpg.de/en/" target="_blank">Max Planck Institute for Innovation and Competition</a>
+  <p class="hero-text">Feel free to get in touch.</p>
+  </p>
 </div>
 
-<div class="bubbles">
-  <a class="bubble" href="https://www.linkedin.com/in/marguerite-de-la-tullaye-010487249/" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
-  <a class="bubble" href="https://github.com/margueritedelatullaye" title="GitHub"><i class="bi bi-github"></i></a>
-  <a class="bubble" href="mailto:marguerite.delatullaye@gmail.com" title="Mail"><i class="bi bi-envelope-fill"></i></a>
 </div>
-:::
+```
 
-::: {.hero-right}
-I am a first year PhD student at both [Télécom Paris](https://www.telecom-paris.fr/) (affiliated with CREST), and the [Max Planck Institute for Innovation and Competition](https://www.ip.mpg.de/en/). My thesis supervisor is [Laurie Ciaramella](https://sites.google.com/view/laurieciaramella) with [Clément Malgouyres](https://sites.google.com/site/clementmalgouyres/) and [Dietmar Harhoff](https://www.ip.mpg.de/en/persons/prof-dietmar-harhoff).
-:::
+## BACK IN TIME {.unnumbered}
 
-::::
 
-## AND BEFORE... {.unnumbered}
 
-Votre texte sur votre parcours précédent.
+Before, I was a research assistant at INRAE (National Institute for the Environment, Agriculture, and ), part of the Center . 
+There I first 
 
 ## CONTACT {.unnumbered}
 
 Votre adresse, votre mail, etc.
-
